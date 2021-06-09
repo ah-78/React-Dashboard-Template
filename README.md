@@ -1,9 +1,9 @@
-#Description
+# Description
 This project is related to the development of a dashboard template in which different widgets have been developed which can be used in any project to display real time information as per the requirement of the project.
 Project is developed in ReactJs.
 
 
-#Installation
+# Installation
 
 # Getting Started with Create React App
 ### `create-react-app`
